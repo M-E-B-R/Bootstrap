@@ -1,0 +1,25 @@
+.p-sobre{
+    padding-top: 10px;
+}
+
+.title{
+    text-align: center;
+    padding-top: 77px;
+}
+
+.pie{
+    background-color: rgba(236, 30, 30, 0.932);
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: inline-flex;
+    
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 12px;
+
+}
